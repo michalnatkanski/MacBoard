@@ -7,3 +7,8 @@ SASS
 html
 (we will see) :)
 
+To run:
+
+npm install
+npm install node-sass
+npm start
