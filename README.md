@@ -7,8 +7,8 @@ SASS
 html
 (we will see) :)
 
-To run:
+# To run:
 
-npm install
-npm install node-sass
-npm start
+yarn install
+yarn add node-sass (m1 mac node-sass@4.14.1)
+yarn start

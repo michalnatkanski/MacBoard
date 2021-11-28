@@ -1,0 +1,25 @@
+.wrapper {
+    background-color: rgba(0,0,0,0.5);
+    width: auto;
+    height: 35px;
+    padding: 5px;
+    margin-bottom: 1em;
+    border-radius: 10px 10px 10px 10px / 10px 11px 11px 11px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    background-color: red;
+    margin: 0 4px;
+    border-radius: 10px 10px 10px 10px / 10px 11px 11px 11px;
+    transition: .2s ease;
+    cursor: pointer;
+}
+
+.icon:hover {
+    padding: 5px;
+    margin: -10px 0 0 0;
+}
