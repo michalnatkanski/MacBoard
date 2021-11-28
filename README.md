@@ -10,5 +10,7 @@ html
 # To run:
 
 yarn install
+
 yarn add node-sass (m1 mac node-sass@4.14.1)
+
 yarn start
